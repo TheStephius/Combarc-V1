@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'es' Physical Memory: 3992 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker25
+-projectPath
+C:/Users/estef/OneDrive/Documents/UNIVERSITY/COMBARC/Combarc V1
+-logFile
+Logs/AssetImportWorker25.log
+-srvPort
+55457
+Successfully changed project path to: C:/Users/estef/OneDrive/Documents/UNIVERSITY/COMBARC/Combarc V1
+C:/Users/estef/OneDrive/Documents/UNIVERSITY/COMBARC/Combarc V1
+Using Asset Import Pipeline V2.
