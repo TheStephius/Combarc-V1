@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e7f3068819ff71644b842f004d37c1fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hot and Black Tea
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c4a516c9d90650a4a8b2ff3a948682c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

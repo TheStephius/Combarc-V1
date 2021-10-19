@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a44b17c0b425ad408a82de1417a9105
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Love Is Complicated Again
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07a37b7524e0ce14fbf5f084df18c9f6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8ec90bbf39356e438116dc58751e575
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Marshmallows and Chocolate
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f302671f09a73f2408928ad3d9bd0c37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

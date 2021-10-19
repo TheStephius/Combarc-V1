@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0f68f62ec92e6ff4ba3b65075abb0c69
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lulo Clean W01 One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9670f15b73efb9c44b5b58db85606a76, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

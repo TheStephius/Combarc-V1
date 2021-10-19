@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 45cb917ebda89f64c978f678eb78caf9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Warung Kopi
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b4897a1ab5db5f04b9461ebea7f75b4b, type: 3}
+  - {fileID: 12800000, guid: 21fa445f7a013f94cbdb48d5bebf1096, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

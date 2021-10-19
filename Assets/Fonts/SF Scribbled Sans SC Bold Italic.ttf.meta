@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 21d147d5c0adf474982cdce6ef895949
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Scribbled Sans SC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e0f7fb966990402488b85907f58f9a06, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

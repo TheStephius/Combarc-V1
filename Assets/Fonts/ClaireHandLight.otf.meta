@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 3feeb3e7367069c409555c4d0b4fcfeb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Claire Hand
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8eda1890bf6156144bd1c44847acc026, type: 3}
+  - {fileID: 12800000, guid: 79571b36da4a95f46a0d0223019c1ce7, type: 3}
+  - {fileID: 12800000, guid: 771de1902177d2d4b9670a6623dc0488, type: 3}
+  - {fileID: 12800000, guid: 9969599b0c7763d41bd3cd5cf6aa26d9, type: 3}
+  - {fileID: 12800000, guid: c0b60e87c92e0ca41bf7d5f2a7b4216b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

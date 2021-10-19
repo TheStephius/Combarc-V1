@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cb89619cf7ad4324bac64b78cb3acce7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dupree
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f198488ac025ccf4282491db4781bbbc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

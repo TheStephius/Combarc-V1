@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9e303bc22bf54ce428b8f65533980c6a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Throw My Hands Up in the Air
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ba96c332f5d741c4ea886a12d0142c88, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

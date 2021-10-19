@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4fe2a4051ee151f44b695a86f41548d7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FrontageW00-Regular
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5892b0fc261786a4bbccd888f3b29e2f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

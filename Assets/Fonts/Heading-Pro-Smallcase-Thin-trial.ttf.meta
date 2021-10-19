@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cfd4c81de9017b949871c533256d6d9c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heading Smallcase Pro Trial
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d8629b3063e72fc41a36ba8676234bc3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

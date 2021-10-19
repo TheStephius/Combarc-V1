@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0edfd8c544f195949bdae1cd56d9df0a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Proverbial Gothic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 01d6737ed1cc07041830816f93b024f4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

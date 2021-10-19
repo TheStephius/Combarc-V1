@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4df0db8bfdef4034290edca23a87b109
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - FISHfingers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 708c71f7e09d3e147baeeec219a3e0fc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

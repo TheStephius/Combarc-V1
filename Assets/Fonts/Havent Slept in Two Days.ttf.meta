@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cfb75ec8694a9d74fbb8f702a3159b77
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Havent Slept in Two Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f45908f87fc383c42a781c7d667dd1b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

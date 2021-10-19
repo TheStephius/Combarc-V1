@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8bf80965086b9ac4897251e09ab15bf6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Prager Headlines
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b51e16e85ffcd004bb5ed91bea6721a6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 19370c284116a4748aed3950523c595c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Foxboro Script
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e2d2e12b5f1348441b7d15847060860c, type: 3}
+  - {fileID: 12800000, guid: f2182380c01651e4b92982635ba85795, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

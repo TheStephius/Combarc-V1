@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af5978bf95497d9428300d1edec85874
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Warung Kopi Light
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d30374c91fc5b074b99cbfe10dce7cd1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

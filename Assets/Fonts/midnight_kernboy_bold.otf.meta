@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9f003827572a35140a7c93023acec38a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - MidnightKernboy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f711eb8f782fece4892d5d1bfb3116e2, type: 3}
+  - {fileID: 12800000, guid: ac548dffb69c94047baaa747e168d841, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
