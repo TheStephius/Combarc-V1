@@ -5,19 +5,17 @@ using UnityEngine.UI;
 
 public class BarraDeVida : MonoBehaviour
 {
-    public Image barraDeVida;
-    public float vidaAcual;
-    public float vidaMax;
+    public Slider slider;
+    public Gradient gradient;
 
-    // Start is called before the first frame update
-    void Start()
+    public void SetMaxHealth(int health)
     {
-        
+        slider.maxValue = health;
+        slider.value = health;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void SetHealth(int health)
     {
-        barraDeVida.fillAmount = vidaAcual / vidaMax;
+        slider.value = health;
     }
 }

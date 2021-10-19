@@ -400,7 +400,7 @@ MonoBehaviour:
 
     Move using          or
 
-    Attack With "x"'
+    Attack With "SpaceBar"'
 --- !u!222 &1275428131
 CanvasRenderer:
   m_ObjectHideFlags: 0

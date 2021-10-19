@@ -1,29 +1,52 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class Player : MonoBehaviour
 {
     [SerializeField] float speed;
 
     Animator myAnimator;
-       
-    // Start is called before the first frame update
+    public int maxHealth = 100;
+    public int cHealth;
+    public BarraDeVida HB;
+    public int CargarNivel;
+
     void Start()
     {
-        myAnimator = GetComponent<Animator>();
+        cHealth = maxHealth;
+        HB.SetMaxHealth(maxHealth);
 
+        myAnimator = GetComponent<Animator>();
         myAnimator.SetBool("IsRunning", true);
+
     }
 
-    // Update is called once per frame
     void Update()
     {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            TakeDamage(5);
+        }
+        void TakeDamage(int damage)
+        {
+            cHealth -= damage;
+            HB.SetHealth(cHealth);
+        }
+
         float movH = Input.GetAxis("Horizontal");
         float movV = Input.GetAxis("Vertical");
 
         Vector2 movimiento = new Vector2(movH * speed, movV * speed) * Time.deltaTime;
         transform.Translate(movimiento);
+
+        if (cHealth <= 0)
+        {
+            SceneManager.LoadScene(CargarNivel);
+        }
 
         if (movH != 0)
         {
@@ -40,5 +63,6 @@ public class Player : MonoBehaviour
         {
             myAnimator.SetBool("IsRunning", false);
         }
+      
     }
 }

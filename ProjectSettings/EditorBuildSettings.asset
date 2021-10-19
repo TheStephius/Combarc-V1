@@ -17,4 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Loading Scene.unity
     guid: 2357dcd7bed6a704591b870e5ae96116
+  - enabled: 1
+    path: Assets/Scenes/Loading Scene 2.unity
+    guid: db23ddab9718c264488c9d911035a76f
+  - enabled: 1
+    path: Assets/Scenes/ToBeContinue.unity
+    guid: 0708008e33f8ffa4e8def8641086495f
+  - enabled: 1
+    path: Assets/Scenes/Dialog Pt2.unity
+    guid: 081a8ed5370cc0a4bb51b9025597b90d
   m_configObjects: {}
