@@ -5,10 +5,11 @@ using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField] AudioClip sfx_select;
+
     void Start()
     {
-        
+ 
     }
 
     // Update is called once per frame
@@ -22,5 +23,10 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(nivel);
         Time.timeScale = 1;
 
+    }
+
+    public void SelectSound()
+    {
+        AudioSource.PlayClipAtPoint(sfx_select, Camera.main.transform.position);
     }
 }

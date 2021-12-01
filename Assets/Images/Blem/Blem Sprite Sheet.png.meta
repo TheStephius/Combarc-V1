@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f63983b1289e22445901201353b73a79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 348884069447901076
+    second: Blem Sprite Sheet_0
+  - first:
+      213: -327820463103319131
+    second: Blem Sprite Sheet_1
+  - first:
+      213: 516184661056282599
+    second: Blem Sprite Sheet_2
+  - first:
+      213: 5195825927234687697
+    second: Blem Sprite Sheet_3
+  - first:
+      213: 2655585430689173450
+    second: Blem Sprite Sheet_4
+  - first:
+      213: 3261824387163241584
+    second: Blem Sprite Sheet_5
+  - first:
+      213: 2247303223870854970
+    second: Blem Sprite Sheet_6
+  - first:
+      213: -5629288764627274943
+    second: Blem Sprite Sheet_7
+  - first:
+      213: -5299539836600100345
+    second: Blem Sprite Sheet_8
+  - first:
+      213: 8478309204537924413
+    second: Blem Sprite Sheet_9
+  - first:
+      213: -6850482836059933161
+    second: Blem Sprite Sheet_10
+  - first:
+      213: 6216016854642255929
+    second: Blem Sprite Sheet_11
+  - first:
+      213: 1829360859482960685
+    second: Blem Sprite Sheet_12
+  - first:
+      213: -4859828924931891672
+    second: Blem Sprite Sheet_13
+  - first:
+      213: 1289294608986440893
+    second: Blem Sprite Sheet_14
+  - first:
+      213: -7711168939870548760
+    second: Blem Sprite Sheet_15
+  - first:
+      213: 6553186835747217691
+    second: Blem Sprite Sheet_16
+  - first:
+      213: 3110308517550335432
+    second: Blem Sprite Sheet_17
+  - first:
+      213: -9098659364622474802
+    second: Blem Sprite Sheet_18
+  - first:
+      213: 4130632815155717483
+    second: Blem Sprite Sheet_19
+  - first:
+      213: 7397914916873754021
+    second: Blem Sprite Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 5563
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f1c33763c77d400800000000000000
+      internalID: 348884069447901076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 4371
+        width: 1104
+        height: 1196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36f929609537bf0800000000000000
+      internalID: -327820463103319131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 7796
+        y: 4365
+        width: 1101
+        height: 1199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7efd3c0e63bd92700800000000000000
+      internalID: 516184661056282599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4263
+        width: 994
+        height: 1243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d29693f6284b1840800000000000000
+      internalID: 5195825927234687697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 4263
+        width: 814
+        height: 1248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4eea11e88ad420800000000000000
+      internalID: 2655585430689173450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 4264
+        width: 949
+        height: 1293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c329c8ff3544d20800000000000000
+      internalID: 3261824387163241584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 4601
+        y: 4263
+        width: 996
+        height: 1244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3799691066003f10800000000000000
+      internalID: 2247303223870854970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 5850
+        y: 4261
+        width: 619
+        height: 1250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1433b4e91bfb0e1b0800000000000000
+      internalID: -5629288764627274943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 6694
+        y: 4264
+        width: 934
+        height: 1293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a5b66c8904476b0800000000000000
+      internalID: -5299539836600100345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2900
+        width: 275
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b58603d4109a570800000000000000
+      internalID: 8478309204537924413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716bcb0f7223ee0a0800000000000000
+      internalID: -6850482836059933161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2900
+        width: 275
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938eaca356ab34650800000000000000
+      internalID: 6216016854642255929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 3421
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233c736202336910800000000000000
+      internalID: 1829360859482960685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2900
+        width: 276
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e144c575b6e8cb0800000000000000
+      internalID: -4859828924931891672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 3421
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4867bad9e74e110800000000000000
+      internalID: 1289294608986440893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1532
+        width: 366
+        height: 1363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec8df764bc6cf490800000000000000
+      internalID: -7711168939870548760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1532
+        width: 656
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11aa73f4b891fa50800000000000000
+      internalID: 6553186835747217691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1536
+        width: 533
+        height: 1348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a57a1e190a2b20800000000000000
+      internalID: 3110308517550335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 1533
+        width: 332
+        height: 1349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1656fb3811bb180800000000000000
+      internalID: -9098659364622474802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3381
+        y: 1532
+        width: 655
+        height: 1350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65adec09a4f25930800000000000000
+      internalID: 4130632815155717483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blem Sprite Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 1536
+        width: 533
+        height: 1348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d2dacb6caaa660800000000000000
+      internalID: 7397914916873754021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

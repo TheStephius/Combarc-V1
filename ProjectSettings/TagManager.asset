@@ -4,17 +4,19 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
+  - TextBox
+  - TextBoxBG
+  - AutoSkipLog
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Floor
   - Water
   - UI
-  - Background
-  - 
-  - 
+  - Player
+  - Enemy
+  - Landscape
   - 
   - 
   - 
@@ -41,4 +43,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 75377387
     locked: 0
